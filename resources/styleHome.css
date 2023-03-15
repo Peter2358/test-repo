@@ -1,0 +1,26 @@
+img.avatar{
+    border-radius: 45px;
+    height: 90px;
+    width: 90px;
+}
+
+body{
+    background-color: grey;
+}
+
+h2{
+    font: purple;
+}
+
+hr{
+    color: crimson;
+}
+
+p{
+    padding: 5px;
+}
+.txtbox1{
+    border-radius: 5px;
+    border: 1px solid crimson;
+    font: purple;
+}
